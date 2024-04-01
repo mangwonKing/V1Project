@@ -5,8 +5,8 @@ c++ 위주로 작업을 진행해서 전체적인 언리얼엔진 사용법과 �
 해당 게임을 모작하는 프로젝트 입니다.
 그래서 프로젝트의 이름은 빈딕투스의 V 를 따서 V1 으로 이름을 지었습니다.
 
-#사용 언어: unreal c++ / blueprint 
-#사용 툴: vs2022 , unrea engine 5.3 / git fork / 깃허브
-#사용 에셋: 미정 (추후 확정 후 업데이트 예정)
+--사용 언어: unreal c++ / blueprint 
+--사용 툴: vs2022 , unrea engine 5.3 / git fork / 깃허브
+--사용 에셋: 미정 (추후 확정 후 업데이트 예정)
 
 개발일지: https://mangwonking.tistory.com
