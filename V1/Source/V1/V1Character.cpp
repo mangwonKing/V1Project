@@ -80,7 +80,7 @@ void AV1Character::SetupPlayerInputComponent(UInputComponent* PlayerInputCompone
 		// Jumping
 		EnhancedInputComponent->BindAction(JumpAction, ETriggerEvent::Started, this, &ACharacter::Jump);
 		EnhancedInputComponent->BindAction(JumpAction, ETriggerEvent::Completed, this, &ACharacter::StopJumping);
-		// good
+		// good bad
 		// Moving
 		EnhancedInputComponent->BindAction(MoveAction, ETriggerEvent::Triggered, this, &AV1Character::Move);
 
